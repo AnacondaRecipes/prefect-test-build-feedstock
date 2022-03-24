@@ -1,3 +1,3 @@
 # the conda-build parameters to use
 channels:
-  dkomisar: test-tag
+  c3i_test2: test
