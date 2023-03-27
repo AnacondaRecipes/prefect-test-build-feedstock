@@ -20,10 +20,6 @@ requirements:
     - python
     - conda-package-streaming >=0.7.0
 
-test:
-  commands:
-    - conda list
-
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-build-feedstock
   license_file: LICENSE
