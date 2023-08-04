@@ -1,0 +1,4 @@
+channels:
+  - _lts-preview
+upload_without_merge: True
+

@@ -6,7 +6,8 @@ source:
   path: ../src
 
 build:
-  number: 7
+  # Arbitrary change to kick CI
+  number: 8
 
 requirements:
   build:
