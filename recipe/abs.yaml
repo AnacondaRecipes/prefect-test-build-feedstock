@@ -1,0 +1,6 @@
+aggregate_check: false
+
+channels:
+  - distro-tooling
+
+upload_without_merge: True

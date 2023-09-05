@@ -6,7 +6,7 @@ source:
   path: ../src
 
 build:
-  number: 0
+  number: 1
 
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-dependency-feedstock
