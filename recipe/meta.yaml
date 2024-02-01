@@ -11,6 +11,8 @@ build:
 requirements:
   build:
     prefect-test-dependency
+  run:
+    prefect-test-dependency
 
 about:
   home: https://github.com/AnacondaRecipes/prefect-test-build-feedstock
