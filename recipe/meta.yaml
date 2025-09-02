@@ -6,7 +6,11 @@ source:
   path: ../src
 
 build:
-  number: 7
+  number: 8
+
+test:
+  commands:
+    - echo success
 
 requirements:
   build:
@@ -19,6 +23,10 @@ about:
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
+  description: This is a simple test feedstock for PBP
+  summary: Test feedstock for PBP
+  doc_url: https://github.com/AnacondaRecipes/prefect-test-build-feedstock
+  dev_url: https://github.com/AnacondaRecipes/prefect-test-build-feedstock
 
 extra:
   recipe-maintainers:
