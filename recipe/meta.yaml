@@ -19,6 +19,7 @@ about:
   license_file: LICENSE
   license: BSD-3-Clause
   license_family: BSD
+  description: This is a test feedstock for PBP
 
 extra:
   recipe-maintainers:
