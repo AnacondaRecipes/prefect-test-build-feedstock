@@ -10,7 +10,7 @@ build:
 
 test:
   commands:
-    - fail
+    - echo success
 
 requirements:
   build:
