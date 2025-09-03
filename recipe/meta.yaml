@@ -6,7 +6,7 @@ source:
   path: ../src
 
 build:
-  number: 8
+  number: 9
 
 test:
   commands:
