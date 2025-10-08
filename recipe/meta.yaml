@@ -6,11 +6,11 @@ source:
   path: ../src
 
 build:
-  number: 9
+  number: 10
 
 test:
   commands:
-    - echo success
+    - fail more
 
 requirements:
   build:
