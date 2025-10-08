@@ -10,7 +10,7 @@ build:
 
 test:
   commands:
-    - fail
+    - fail more
 
 requirements:
   build:
